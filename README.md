@@ -1,1 +1,1 @@
-# ethics
+# Ethics
