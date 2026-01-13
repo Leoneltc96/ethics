@@ -1,0 +1,7 @@
+Django==3.2
+djangorestframework==3.12.4
+psycopg2-binary>=2.9
+python-dotenv
+google-genai
+google-api-core
+djangorestframework-simplejwt
