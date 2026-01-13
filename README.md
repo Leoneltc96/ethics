@@ -1,4 +1,4 @@
-# Complaints AI System
+# Ethics Complaints System
 
 Este proyecto es un sistema de gestión de denuncias (Complaints) potenciado por Inteligencia Artificial (Gemini) para procesar y estructurar la información de las denuncias recibidas.
 
@@ -20,7 +20,7 @@ Este proyecto es un sistema de gestión de denuncias (Complaints) potenciado por
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/Leoneltc96/ethics/
    cd complaints
    ```
 
